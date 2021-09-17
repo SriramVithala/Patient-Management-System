@@ -1,0 +1,6 @@
+c:\users\1427545\documents\visual studio 2015\Projects\PS3\PS3\bin\Debug\PS3.exe.config
+c:\users\1427545\documents\visual studio 2015\Projects\PS3\PS3\obj\Debug\PS3.csprojResolveAssemblyReference.cache
+c:\users\1427545\documents\visual studio 2015\Projects\PS3\PS3\bin\Debug\PS3.exe
+c:\users\1427545\documents\visual studio 2015\Projects\PS3\PS3\bin\Debug\PS3.pdb
+c:\users\1427545\documents\visual studio 2015\Projects\PS3\PS3\obj\Debug\PS3.exe
+c:\users\1427545\documents\visual studio 2015\Projects\PS3\PS3\obj\Debug\PS3.pdb
